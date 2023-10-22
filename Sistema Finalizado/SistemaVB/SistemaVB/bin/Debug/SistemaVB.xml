@@ -1,0 +1,701 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SistemaVB
+</name>
+</assembly>
+<members>
+<member name="T:SistemaVB.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources._3">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources._33">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources._35">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.bar_chart">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.barCode">
+<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.btVerde">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.btVermelho">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.cash_register">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.checklist">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.graph">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.logologin">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.o">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.oi">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.patient">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.patient1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.perfume">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.roxo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.salary">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.search">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.stock_market">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.verde">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.vermelho">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.volume">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.youth">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaVB.My.Resources.Resources.youth1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SistemaVB.CaixaaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaVB.CaixaaDataSet.caixaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.CaixaaDataSet.caixaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.CaixaaDataSet.caixaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.CaixaaDataSetTableAdapters.caixaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.CaixaaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SistemaVB.CaixaaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaVB.CaixaaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaVB.CaixaaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaVB.CaixaaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaVB.CaixaaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaVB.CaixaaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SistemaVB.CaixaaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SistemaVB.CaixaaDataSetTableAdapters.TableAdapterManager.UpdateAll(SistemaVB.CaixaaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SistemaVB.CaixaaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SistemaVB.CaixaaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SistemaVB.caixaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaVB.caixaDataSet.caixaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.caixaDataSet.caixaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.caixaDataSet.caixaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.caixaDataSetTableAdapters.caixaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.caixaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SistemaVB.caixaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaVB.caixaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaVB.caixaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaVB.caixaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaVB.caixaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaVB.caixaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SistemaVB.caixaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SistemaVB.caixaDataSetTableAdapters.TableAdapterManager.UpdateAll(SistemaVB.caixaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SistemaVB.caixaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SistemaVB.caixaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.estoqueDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.produtosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.EstoquePorDataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.BuscarEntradasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.BuscarSaidasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.BuscarEntradasSaidasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.estoqueRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.produtosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.EstoquePorDataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.BuscarEntradasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.BuscarSaidasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.BuscarEntradasSaidasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.estoqueRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.produtosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.EstoquePorDataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.BuscarEntradasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.BuscarSaidasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSet.BuscarEntradasSaidasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSetTableAdapters.estoqueTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSetTableAdapters.produtosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSetTableAdapters.EstoquePorDataTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSetTableAdapters.BuscarEntradasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSetTableAdapters.BuscarSaidasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSetTableAdapters.BuscarEntradasSaidasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SistemaVB.estoquesDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaVB.estoquesDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaVB.estoquesDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaVB.estoquesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaVB.estoquesDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaVB.estoquesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SistemaVB.estoquesDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SistemaVB.estoquesDataSetTableAdapters.TableAdapterManager.UpdateAll(SistemaVB.estoquesDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SistemaVB.estoquesDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SistemaVB.ProdutosDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaVB.ProdutosDataSet.produtosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.ProdutosDataSet.produtosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.ProdutosDataSet.produtosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.ProdutosDataSetTableAdapters.produtosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.ProdutosDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SistemaVB.ProdutosDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaVB.ProdutosDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaVB.ProdutosDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaVB.ProdutosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaVB.ProdutosDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaVB.ProdutosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SistemaVB.ProdutosDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SistemaVB.ProdutosDataSetTableAdapters.TableAdapterManager.UpdateAll(SistemaVB.ProdutosDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SistemaVB.ProdutosDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SistemaVB.ProdutosDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SistemaVB.sistemavbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaVB.sistemavbDataSet.vendasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.sistemavbDataSet.vendasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.sistemavbDataSet.vendasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.sistemavbDataSetTableAdapters.vendasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.sistemavbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SistemaVB.sistemavbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaVB.sistemavbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaVB.sistemavbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaVB.sistemavbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaVB.sistemavbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaVB.sistemavbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SistemaVB.sistemavbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SistemaVB.sistemavbDataSetTableAdapters.TableAdapterManager.UpdateAll(SistemaVB.sistemavbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SistemaVB.sistemavbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SistemaVB.sistemavbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSet.clientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSet.produtosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSet.vendasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSet.ListaDeVendasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSet.clientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSet.produtosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSet.vendasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSet.ListaDeVendasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSet.clientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSet.produtosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSet.vendasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSet.ListaDeVendasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSetTableAdapters.clientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSetTableAdapters.produtosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSetTableAdapters.vendasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSetTableAdapters.ListaDeVendasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SistemaVB.VendasDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaVB.VendasDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaVB.VendasDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaVB.VendasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaVB.VendasDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaVB.VendasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SistemaVB.VendasDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SistemaVB.VendasDataSetTableAdapters.TableAdapterManager.UpdateAll(SistemaVB.VendasDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SistemaVB.VendasDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

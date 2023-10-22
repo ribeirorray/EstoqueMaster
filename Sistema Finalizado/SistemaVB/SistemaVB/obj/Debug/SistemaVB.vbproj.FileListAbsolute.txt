@@ -1,0 +1,867 @@
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe.config
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\bin\Debug\SistemaVB.pdb
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\bin\Debug\SistemaVB.xml
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbprojAssemblyReference.cache
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Login.resources
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Resources.resources
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.GenerateResource.cache
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CoreCompileInputs.cache
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\obj\Debug\SistemaVB.xml
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\obj\Debug\SistemaVB.pdb
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Principal.resources
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Funcionarios.resources
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Clientes.resources
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Produtos.resources
+C:\Users\hugov\source\repos\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Vendas.resources
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe.config
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\SistemaVB.pdb
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\SistemaVB.xml
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbprojAssemblyReference.cache
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Clientes.resources
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Funcionarios.resources
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Login.resources
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Resources.resources
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Principal.resources
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Produtos.resources
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Vendas.resources
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.GenerateResource.cache
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CoreCompileInputs.cache
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.xml
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.pdb
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.ListaVendas.resources
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\EnvDTE.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\stdole.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\EnvDTE80.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\VSLangProj.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\VSLangProj80.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Newtonsoft.Json.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.MSXML.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Framework.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\VSLangProj2.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe.config
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelVenda.resources
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CopyComplete
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelProdutos.resources
+C:\Sistema Vendas\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelComprovante.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe.config
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\SistemaVB.pdb
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\SistemaVB.xml
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\EnvDTE.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\stdole.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\EnvDTE80.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\VSLangProj.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\VSLangProj80.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Newtonsoft.Json.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.MSXML.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Framework.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\VSLangProj2.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbprojAssemblyReference.cache
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe.config
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Clientes.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Funcionarios.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.ListaVendas.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Login.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Resources.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Principal.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Produtos.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelComprovante.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelProdutos.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelVenda.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Vendas.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.GenerateResource.cache
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CoreCompileInputs.cache
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CopyComplete
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.xml
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.pdb
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.AbrirCaixa.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.FecharCaixa.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Sangria.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.LoginAdm.resources
+C:\01 - Frente de Caixa\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelCaixa.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe.config
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.pdb
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\EnvDTE.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\stdole.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\EnvDTE80.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\VSLangProj.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\VSLangProj80.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\VSLangProj2.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbprojAssemblyReference.cache
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe.config
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.AbrirCaixa.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Clientes.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.FecharCaixa.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Funcionarios.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.ListaVendas.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Login.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.LoginAdm.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Resources.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Principal.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Produtos.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelCaixa.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelComprovante.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelProdutos.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelVenda.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Sangria.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Vendas.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.GenerateResource.cache
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CoreCompileInputs.cache
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CopyComplete
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.pdb
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Estoque.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.ConsultaEstoque.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelEstoque.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Nivel.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\04 - Gestão de Estoque\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelNiveis.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe.config
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.pdb
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\EnvDTE.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\stdole.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\EnvDTE80.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\VSLangProj.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\VSLangProj80.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\VSLangProj2.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbprojAssemblyReference.cache
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe.config
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.AbrirCaixa.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Clientes.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.ConsultaEstoque.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Estoque.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.FecharCaixa.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Funcionarios.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.ListaVendas.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Login.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.LoginAdm.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Resources.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Principal.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Produtos.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelCaixa.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelComprovante.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelEstoque.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelNiveis.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelProdutos.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelVenda.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Nivel.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Sangria.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Vendas.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.GenerateResource.cache
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CoreCompileInputs.cache
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CopyComplete
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.xml
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.pdb
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelProdutosVendido.resources
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelVendaData.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe.config
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.pdb
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.xml
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\itextsharp.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\EnvDTE.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\stdole.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\EnvDTE80.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\VSLangProj.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\VSLangProj80.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Newtonsoft.Json.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.MSXML.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.Build.Framework.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\VSLangProj2.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\itextsharp.xml
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbprojAssemblyReference.cache
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe.config
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.AbrirCaixa.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Clientes.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.ConsultaEstoque.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Estoque.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.FecharCaixa.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Funcionarios.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.ListaVendas.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Login.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.LoginAdm.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Resources.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Principal.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Produtos.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelCaixa.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelComprovante.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelEstoque.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelNiveis.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelProdutos.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelProdutosVendido.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelVenda.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Nivel.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelVendaData.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Sangria.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Vendas.resources
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.GenerateResource.cache
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CoreCompileInputs.cache
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CopyComplete
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.xml
+C:\03 - Fechamento PDV\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.pdb
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\itextsharp.dll
+C:\Users\hugov\Desktop\Cursos Dezembro e Janeiro\05 - Sistema PDV Fechamento\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\itextsharp.xml
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe.config
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.pdb
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.xml
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\itextsharp.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\EnvDTE.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\stdole.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\itextsharp.xml
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\EnvDTE.xml
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.AssemblyReference.cache
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.AbrirCaixa.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Clientes.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.ConsultaEstoque.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Estoque.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.FecharCaixa.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Funcionarios.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.ListaVendas.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Login.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.LoginAdm.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Resources.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Principal.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Produtos.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelCaixa.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelEstoque.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelProdutos.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Nivel.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Sangria.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Vendas.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.GenerateResource.cache
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CoreCompileInputs.cache
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CopyComplete
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.xml
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.pdb
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelVendas.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Menu.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Form1.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Form2.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Form3.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Form4.resources
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe.config
+C:\Users\Rayane\Desktop\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.NovoLogin.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.AssemblyReference.cache
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.AbrirCaixa.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Clientes.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.ConsultaEstoque.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Estoque.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.FecharCaixa.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Form1.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Form2.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Form3.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Form4.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Funcionarios.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.ListaVendas.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.LoginAdm.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Resources.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.NovoLogin.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Principal.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Produtos.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelCaixa.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelEstoque.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelProdutos.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Nivel.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.frmRelVendas.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Sangria.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.Vendas.resources
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.GenerateResource.cache
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CoreCompileInputs.cache
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.xml
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.pdb
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe.config
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.exe
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.pdb
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\SistemaVB.xml
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\itextsharp.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\EnvDTE.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\stdole.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\itextsharp.xml
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\EnvDTE.xml
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.vbproj.CopyComplete
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Rayane\Downloads\Arquivos\Sistema Finalizado\SistemaVB\SistemaVB\obj\Debug\SistemaVB.exe.config
